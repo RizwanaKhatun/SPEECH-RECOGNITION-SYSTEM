@@ -104,3 +104,6 @@ Wav2Vec2 is a deep learning-based model trained by Facebook, which is widely use
 
 Both methods provide an effective way to transcribe audio, but the choice depends on the complexity and requirements of your project.
 
+**OUTPUT**:
+![Screenshot (7)](https://github.com/user-attachments/assets/68d112c9-b0d5-42a0-b01f-5c1970027c6d)
+
